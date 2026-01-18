@@ -44,7 +44,7 @@ Writing clean, maintainable code
 
 ▶️ How to Run
 Clone the repository
-git clone [text](https://github.com/animesh713331/JS-React-Revision.git)
+git clone https://github.com/animesh713331/JS-React-Revision.git
 Open index.html in any modern browser
 (or use Live Server in VS Code)
 
